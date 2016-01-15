@@ -1,0 +1,24 @@
+{
+  "generator-jhipster": {
+    "baseName": "firstApp",
+    "packageName": "com.bbd.firstapp",
+    "packageFolder": "com/bbd/firstapp",
+    "authenticationType": "session",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": "no",
+    "useSass": true,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "enableTranslation": true,
+    "enableSocialSignIn": false,
+    "rememberMeKey": "1541b8a026e17deccb314680773ce5b59c1a03a2",
+    "testFrameworks": [
+      "gatling"
+    ]
+  }
+}
